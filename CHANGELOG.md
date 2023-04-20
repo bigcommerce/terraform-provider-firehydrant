@@ -2,6 +2,8 @@
 
 ENHANCEMENTS: 
 
+* **New Data Source:** `firehydrant_team` ([#121](https://github.com/firehydrant/terraform-provider-firehydrant/pull/121))
+* **New Data Source:** `firehydrant_teams` ([#121](https://github.com/firehydrant/terraform-provider-firehydrant/pull/121))
 * resource/service: Added `auto_add_responding_team` attribute to service ([#117](https://github.com/firehydrant/terraform-provider-firehydrant/pull/117))
 * data_source/service: Added `auto_add_responding_team` attribute to service ([#117](https://github.com/firehydrant/terraform-provider-firehydrant/pull/117))
 * data_source/services: Added `auto_add_responding_team` attribute to service ([#117](https://github.com/firehydrant/terraform-provider-firehydrant/pull/117))
